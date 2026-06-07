@@ -157,11 +157,11 @@ Statement of Case → respondent **Admission/Defence (14 days)** → **Reply (14
 | What CEA does | Handles **discipline only** — **does NOT recover money** for consumers |
 | First step (EA's duty) | EA must meet complainant to seek **amicable resolution** (COPEA) |
 | **CEA Dispute Resolution Scheme** (Regs 2011) | **Mediation** (via Singapore Mediation Centre) + **Adjudication/arbitration** |
-| **Small Claims Tribunals** | Up to **$10,000**; up to **$20,000** if **both parties consent in writing** |
+| **Small Claims Tribunals** | Up to **$20,000**; up to **$30,000** if both parties sign a **Memorandum of Consent** |
 
 > **TRAP:** CEA disciplines errant agents but **cannot order compensation / recover money** for a consumer — that goes to mediation/adjudication or the courts/SCT.
 
-*中文note:* CEA 只管纪律处分，**不替消费者追讨金钱**。索赔走调解/仲裁或小额索偿庭（**上限 $1 万，双方书面同意可到 $2 万**）。
+*中文note:* CEA 只管纪律处分，**不替消费者追讨金钱**。索赔走调解/仲裁或小额索偿庭（**上限 $2 万，双方签署同意书（Memorandum of Consent）可到 $3 万**）。
 
 ### B10. Estate agency agreements (8 prescribed forms) — overlaps with Paper 2 but commonly tested
 
@@ -234,7 +234,7 @@ P1.1 is mostly conceptual, but two calculation-style items can appear:
 - **Conflict**: **dual representation (one agent, both sides' fees) = OFFENCE**; same-firm opposite sides OK with **written disclosure + consent**.
 - **CPD 2026**: **16 h = 12 SL (≥4 PE) + 4 SDL**; PE topic = **PMLPFTF (AML)**; cycle **Jan–Dec**; condition of renewal.
 - **Discipline**: ladder **LOW → LOC ($5,000) → DC**; DC caps **RES $100k / EA $200k**; all steps **14 days**; appeal to **MND Appeals Board (14 days)**.
-- **Disputes**: CEA = discipline only (**no money recovery**); scheme = **mediation + adjudication**; **SCT $10k / $20k (consent)**.
+- **Disputes**: CEA = discipline only (**no money recovery**); scheme = **mediation + adjudication**; **SCT $20k / $30k (Memorandum of Consent)**.
 - **Agency agreements**: **8 forms** (1–4 non-exclusive, 5–8 exclusive); **exclusive max 3 months + 3-month tail**; **commission fully negotiable**.
 
 **Sources:** [CEA – Prepare for the RES Examination](https://www.cea.gov.sg/real-estate-professionals/for-aspiring-real-estate-salespersons/real-estate-salesperson-examination/prepare-for-the-real-estate-salesperson-examination/) · [CEA – CPD Framework](https://www.cea.gov.sg/real-estate-professionals/continuing-professional-development/cpd-framework/) · [CEA – Transforming Your CPD Journey: Key Changes from 2026](https://www.cea.gov.sg/about-cea/newsroom-publications/ceanergy-blog/transforming-your-cpd-journey-key-changes-from-2026/) · [CEA – Letter of Censure Framework](https://www.cea.gov.sg/regulatory-matters/letter-of-censure-framework/) · [CEA – Disciplinary Proceedings](https://www.cea.gov.sg/regulatory-matters/disciplinary-proceedings/) · [EdgeProp – Amended Estate Agents Act / AML Act 2025](https://www.edgeprop.sg/property-news/amended-estate-agents-act-enables-cea-discipline-minor-breaches-without-disciplinary-committee)
@@ -356,7 +356,7 @@ P1.1 is mostly conceptual, but two calculation-style items can appear:
 | CEA's role | Handles **discipline only** — **does NOT recover money** for consumers | CEA 只管纪律，不替消费者追讨金钱 |
 | First step (COPEA) | EA must meet complainant for **amicable resolution** | 先尝试和解 |
 | **CEA Dispute Resolution Scheme** (Regs 2011) | **Mediation** (via Singapore Mediation Centre) + **Adjudication/arbitration** | 调解 + 仲裁 |
-| **Small Claims Tribunals** | Up to **$10,000** (up to **$20,000** if both parties consent in writing) | 小额索偿 |
+| **Small Claims Tribunals** | Up to **$20,000** (up to **$30,000** if both parties sign a Memorandum of Consent) | 小额索偿 |
 
 **中文note：** 关键陷阱——**CEA 不替消费者讨钱**！金钱纠纷走调解/仲裁/小额索偿庭。
 
@@ -423,7 +423,7 @@ Candidate scores 59/100 on Paper 1. Pass?
 - **Overriding/referral fees** = OK if **disclosed in writing**.
 - **CPD 2026 = 16h = 12h SL (incl. ≥4h PE = PMLPFTF/AML) + 4h SDL.** Jan–Dec cycle. New RES exempt 1st cycle. Condition of renewal.
 - **Discipline ladder: LOW → LOC ($5k) → DC (RES $100k / EA $200k).** AML = **per breach** (post 1 Jul 2025). **Appeal → MND Appeals Board, 14 days.** Each pleading stage = 14 days.
-- **CEA disciplines; does NOT recover money.** Disputes → Mediation (SMC) + Adjudication; Small Claims Tribunal **$10k (→$20k by consent)**. Hotline **1800-643-2555**.
+- **CEA disciplines; does NOT recover money.** Disputes → Mediation (SMC) + Adjudication; Small Claims Tribunal **$20k (→$30k by Memorandum of Consent)**. Hotline **1800-643-2555**.
 - **Pass mark = 60/100 per paper.** **75% = attendance, NOT pass mark.** Register within **2 years** of passing.
 - Watch **EXCEPT/NOT** stems; watch **CEPCC↔COPEA** swaps; watch **3yr (old) vs 5yr (current)** retention; watch **6 credits (old) vs 16h (2026)** CPD.
 
@@ -565,9 +565,9 @@ This topic governs **who may legally do estate agency work, how they stay qualif
 | **CEA's role** | Handles **discipline only** — **CEA does NOT recover money** for consumers |
 | First step (COPEA) | EA must first meet complainant to attempt **amicable resolution** |
 | **CEA Dispute Resolution Scheme** (Regs 2011) | Two sub-schemes: **(1) Mediation** (via Singapore Mediation Centre) → **(2) Arbitration** (binding). Max disputed amount **$60,000** |
-| **Small Claims Tribunals (SCT)** | Claims up to **$10,000**; up to **$20,000** if **both parties consent in writing** |
+| **Small Claims Tribunals (SCT)** | Claims up to **$20,000**; up to **$30,000** if both parties sign a **Memorandum of Consent** |
 
-中文note：投诉CEA → CEA只管**纪律处分**，**不替消费者追讨金钱**。CEA争议解决机制 = **先调解(Mediation, 由SMC)、不成再仲裁(Arbitration, 有约束力)**，金额上限**$60,000**。小额索偿庭(SCT)上限**$10,000**(双方书面同意可到**$20,000**)。
+中文note：投诉CEA → CEA只管**纪律处分**，**不替消费者追讨金钱**。CEA争议解决机制 = **先调解(Mediation, 由SMC)、不成再仲裁(Arbitration, 有约束力)**，金额上限**$60,000**。小额索偿庭(SCT)上限**$20,000**(双方签署同意书 Memorandum of Consent 可到**$30,000**)。
 
 > **TRAP:** Mediation = facilitated, **non-binding** (mediator does NOT impose a decision). Arbitration = arbitrator makes a **binding** decision. 调解不强制、仲裁强制——别弄反。
 
@@ -614,12 +614,12 @@ This topic is mostly rules-based, but a few quantitative/threshold checks appear
 中文：反洗钱违规(2025年7月1日后)按"每项"计，RES每项上限$10万 → 3项 = 最高**$30万**。这正是"per breach"会被考的原因。
 
 **Example 3 — Dispute forum threshold**
-*A consumer disputes $15,000 in fees with an EA. Both parties agree in writing to use the Small Claims Tribunals. Is SCT available?*
+*A consumer disputes $25,000 in fees with an EA. Both parties sign a Memorandum of Consent to use the Small Claims Tribunals. Is SCT available?*
 
-- SCT base limit = **$10,000**; with **written consent of both parties** → up to **$20,000**.
-- $15,000 ≤ $20,000 with consent → **Yes, SCT can hear it.** (Alternatively, CEA's arbitration scheme up to $60,000 is available.)
+- SCT base limit = **$20,000**; with a **Memorandum of Consent** signed by both parties → up to **$30,000**.
+- $25,000 > $20,000 (standard limit) but ≤ $30,000 with consent → **Yes, SCT can hear it** via the Memorandum of Consent. (Alternatively, CEA's arbitration scheme up to $60,000 is available.)
 
-中文：$15,000超过$10,000，但双方书面同意可到$20,000，故SCT**可受理**。
+中文：$25,000 超过标准上限 $20,000，但双方签署同意书（Memorandum of Consent）可提高到 $30,000，故 SCT **可受理**。
 
 ---
 
@@ -635,7 +635,7 @@ This topic is mostly rules-based, but a few quantitative/threshold checks appear
 - **Disciplinary ladder: LOW → LOC ($5,000) → DC.** **DC max: RES $100k / EA $200k.** AML (≥1 Jul 2025) = **per breach** (stacks); else **per case**.
 - **DC timeline**: 14/14/14 days; **appeal 14 days to MND Appeals Board.**
 - **Dual representation (one RES, both sides) = OFFENCE.** Same-firm two-RES = OK with written declaration + consent.
-- **CEA disciplines but does NOT recover money.** Dispute scheme = **Mediation (non-binding) then Arbitration (binding), up to $60,000.** **SCT = $10,000 (→$20,000 with written consent).**
+- **CEA disciplines but does NOT recover money.** Dispute scheme = **Mediation (non-binding) then Arbitration (binding), up to $60,000.** **SCT = $20,000 (→$30,000 with a Memorandum of Consent).**
 
 ---
 

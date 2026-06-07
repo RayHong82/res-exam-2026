@@ -215,7 +215,7 @@ Conditions for higher LTV: tenure ≤30yr (≤25yr HDB) AND loan does not extend
 - Complaint to CEA: hotline **1800-643-2555**. CEA handles discipline, **does NOT recover money** for consumers.
 - EA must first meet complainant for amicable resolution (COPEA).
 - **CEA Dispute Resolution Scheme** (Regs 2011): **Mediation** (via Singapore Mediation Centre) + **Adjudication/arbitration**.
-- **Small Claims Tribunals:** up to **$10,000** (up to **$20,000** if both parties consent in writing).
+- **Small Claims Tribunals (SCT):** up to **$20,000** (up to **$30,000** if both parties sign a **Memorandum of Consent**).
 
 ## 10. Estates & Interests in Land
 - **Fee Simple** = highest freehold, indefinite, unconditional, inheritable. **Estate in Perpetuity** = freehold but **conditional** under State Lands Act. **Life Estate** = lifetime only, reverts on death.
