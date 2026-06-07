@@ -1,13 +1,3 @@
-All key figures verified. Updates for the document:
-- Pass mark = **60/paper** (confirmed; 75% is course attendance, not pass mark)
-- CPD 2026: 16h = 12h Structured Learning (incl. ≥4h Prescribed Essentials) + 4h Self-Directed Learning (refined from research)
-- 2026 retirement sums: BRS $110,200 / FRS $220,400 / ERS $440,800 (for those turning 55 in 2026)
-- ABSD/SSD/BSD all confirmed current for 2026
-
-I now have everything verified. Here is the consolidated reference document.
-
----
-
 # RES 考试权威复习参考 / RES Exam Authoritative Reference
 **Exam date: 18 July 2026 | All figures verified against CEA, IRAS, MAS, HDB, CPF, SLA, URA primary sources (current as of June 2026)**
 
