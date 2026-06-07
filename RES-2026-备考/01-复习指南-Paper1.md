@@ -399,7 +399,8 @@ An RES completes 10h Structured Learning (of which 3h is Prescribed Essentials) 
 - Total = 15h < required **16h** → **fail on total**.
 - SL = 10h < required **12h** → **fail on SL**.
 - PE = 3h < required **4h** → **fail on PE**.
-- **Result: NON-compliant on three counts** → registration renewal blocked.
+- SDL = 5h ≥ required **4h** → **SDL met** (the surplus 1h CANNOT offset the SL/PE shortfall — each component is a separate minimum).
+- **Result: NON-compliant on three counts** (total, SL, PE) → registration renewal blocked.
 - 中文：三项全不达标——总时数、结构化学习、强制 PE 都不够。
 
 **Example 2 — Penalty routing:**
