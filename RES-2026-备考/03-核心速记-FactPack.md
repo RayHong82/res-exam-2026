@@ -254,6 +254,7 @@ Conditions for higher LTV: tenure ≤30yr (≤25yr HDB) AND loan does not extend
 - **RESTRICTED (LDAU approval):** vacant residential land; terrace/semi-D/bungalow (landed); strata landed **outside** condo; **Sentosa Cove** landed; residential-use shophouses; serviced apartments/dormitories; mixed commercial-residential.
 - **LDAU approval criteria:** PR ≥**5 years** + exceptional economic contribution. Fee **S$1,220/property**; ~30 working days.
 - **Conditions on approved restricted purchase:** mainland land area ≤**15,000 sq ft**; Sentosa Cove ≤**1,800 sqm**; no disposal within **5 years**; owner-occupation only (no rental); no subdivision.
+- **Breach of RPA approval conditions (s25C):** an offence — fine ≤ **$200,000** and/or imprisonment ≤ **3 years**. Breaching owner-occupation by renting out a restricted home (incl. Sentosa Cove): financial penalty up to **3× the rental income** earned over the contravention, or **$10,000**, whichever is higher. 中文：违反批准条件属罪行（罚款≤$20万 和/或 监禁≤3年）；违规出租另罚＝租金所得 3 倍或 $10,000（取高者）。
 - **EC foreigner timeline:** Yr 0–5 (MOP) SC/SPR only; Yr 5–10 SC/SPR resale only; **after 10yr (privatised) → anyone incl. foreigners.**
 
 ## 20. Condo vs Landed; Tenure

@@ -1676,7 +1676,8 @@ A 6-year SPR with documented exceptional economic contribution applies to LDAU t
 - **Restricted (need LDAU approval):** vacant land, ALL landed (terrace/semi-D/bungalow/GCB), strata-landed *outside* condo, **Sentosa Cove** landed, residential shophouse.
 - **Mainland approval criteria:** PR **≥5 years** + **exceptional economic contribution** (high bar).
 - **Mainland conditions:** ≤**15,000 sq ft**, owner-occupation only, **no rental**, no subdivision, **no disposal within 5 years**; fee ~**$1,220**; ~**30 working days**.
-- **Sentosa Cove:** ≤**1,800 sq m**, no "exceptional contribution" needed, **no 5-year MOP** — more permissive.
+- **Sentosa Cove:** ≤**1,800 sq m**, no "exceptional contribution" needed, **non-PR foreigners may buy** (since Aug 2004), **2-day express approval**, **no 5-year MOP** (can resell anytime) — more permissive. **BUT owner-occupation only — still NO renting out.**
+- **Breach penalties (RPA s25C):** breaching the conditions — e.g. renting out a restricted/Sentosa home (owner-occupation breach) or early disposal — is an **offence**: fine ≤ **$200,000** and/or jail ≤ **3 years**; plus a financial penalty up to **3× the rental income** earned, or **$10,000**, whichever is higher. 中文：违反条件（违规出租或提前转让）属罪行（罚款≤$20万 和/或 监禁≤3年），另罚租金 3 倍或 $10,000 取高。
 - **ABSD foreigner = 60%** on every residential property (2026, unchanged). **PR = 5% / 30% / 35%.**
 - **FTA = treated as SC (0%/20%/30%):** **US citizens**; **citizens + PRs of Iceland, Liechtenstein, Norway, Switzerland.**
 - **BSD is the same for everyone** — only ABSD varies by nationality/count.
