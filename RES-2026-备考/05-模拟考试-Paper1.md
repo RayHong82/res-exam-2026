@@ -16,6 +16,7 @@
 - C. It is a department within HDB that approves all HDB resale transactions
 - D. It is a self-regulatory body run by the estate agencies themselves with no statutory powers
 
+A 
 ---
 
 **Q2.** Under what instrument is the Code of Ethics & Professional Client Care (CEPCC) prescribed, and to whom does it primarily apply?
@@ -25,6 +26,7 @@
 - C. Prescribed under the Land Titles Act 1993; it applies to conveyancing lawyers
 - D. Prescribed under the Estate Agents (Estate Agency Work) Regulations 2010; it sets the standard of conduct for individual salespersons (RES) and EAs toward clients and the public
 
+D
 ---
 
 **Q3.** Mei Ling has just passed her RES examination and wants to start practising. Which statement BEST describes the correct licensing/registration structure she must operate under?
@@ -34,6 +36,7 @@
 - C. She must be registered as an RES through a single licensed estate agent (EA), as the EA is licensed while the salesperson is registered
 - D. She may register with up to two licensed EAs at the same time to maximise her listings
 
+C
 ---
 
 **Q4.** Mr Tan owns a piece of land in fee simple. Which statement BEST describes the nature of his ownership?
@@ -43,6 +46,7 @@
 - C. It is a freehold estate of indefinite duration, unconditional and capable of being inherited
 - D. It lasts only for his lifetime and reverts to the State on his death
 
+C
 ---
 
 **Q5.** Singapore's land registration system under the Land Titles Act 1993 is based on the Torrens system, which rests on three foundational principles. Which of the following correctly states the 'Curtain' principle?
@@ -52,6 +56,7 @@
 - C. The register accurately reflects all the material facts about the current state of the title
 - D. Registration of an instrument vests legal title in the registered proprietor
 
+B
 ---
 
 **Q6.** A married Singapore Citizen couple, both aged 30, want to buy a 4-room HDB resale flat. Their combined average gross monthly household income is $11,500. Which CPF Housing Grant scheme has an income ceiling that they could potentially qualify for?
@@ -61,6 +66,7 @@
 - C. No grant, because resale flat buyers have no income ceiling
 - D. The Enhanced CPF Housing Grant only, since its ceiling is $14,000
 
+A
 ---
 
 **Q7.** Mdm Tan collected the keys to her standard BTO 4-room flat on 1 March 2021. She wants to know the earliest date she can sell the flat on the open market. When is the earliest she may sell?
@@ -70,6 +76,7 @@
 - C. 1 March 2026 (5-year MOP)
 - D. Immediately, because resale flats have no MOP
 
+C
 ---
 
 **Q8.** Under the Residential Property Act 1976, which of the following is considered a 'foreign person' who is subject to restrictions on the purchase of restricted residential property?
@@ -79,6 +86,7 @@
 - C. A Singapore-registered company wholly owned by Singapore Citizens
 - D. A Singapore Citizen acting as trustee for his SC children
 
+B
 ---
 
 **Q9.** A buyer is comparing two purchases: a residential condominium unit and a commercial retail shop. Which statement correctly describes the GST treatment of these two transactions in 2026?
@@ -88,6 +96,7 @@
 - C. The condominium sale is standard-rated at 9%; the commercial shop is exempt
 - D. Both are exempt supplies because they are sales of immovable property
 
+A
 ---
 
 **Q10.** Mr Tan is taking out his FIRST housing loan from a bank to buy a private condominium. The loan tenure is 25 years and will be fully repaid before he turns 65. What is the maximum Loan-to-Value (LTV) ratio he can obtain?
@@ -97,6 +106,7 @@
 - C. 80%
 - D. 75%
 
+D
 ---
 
 **Q11.** A Singapore Citizen buying his very first residential property, a Singapore Permanent Resident buying her first residential property, and a foreigner buying his first residential property each purchase an identical $1,200,000 condominium unit. How does the Buyer's Stamp Duty (BSD) payable by the three buyers compare?
